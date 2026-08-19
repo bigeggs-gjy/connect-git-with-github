@@ -1,0 +1,29 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Large research data: uncomment and adjust if needed
+# *.mat
+# *.npy
+# *.npz
