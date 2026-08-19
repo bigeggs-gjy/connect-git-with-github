@@ -6,3 +6,5 @@
 - 远程仓库：https://github.com/bigeggs-gjy/2026-3
 
 本目录已启用自动同步：文件发生改动后，会自动 commit 并 push 到 GitHub。
+
+- 自动同步启动时间：2026-08-19（本地改动自动 commit + push）。
